@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # NUMERICS FOR FLUIDS STRUCTURE AND ELECTROMAGNETICS
 # Flow in a driven cavity
-=======
-# NUMERICS FOR FLUIDS STRUCTURE AND ELECTROMAGNETS 
->>>>>>> 36c87878f2eb71e0381d8866dead82396cd7b4af
+
 
 The folder contains code and report for the Project 1 - Lid Cavity Problem.
 
