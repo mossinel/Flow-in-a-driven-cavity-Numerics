@@ -1,8 +1,9 @@
-##### NUMERICS FOR FLUIDS STRUCTURE AND ELECTROMAGNETS #####
+# NUMERICS FOR FLUIDS STRUCTURE AND ELECTROMAGNETICS
+# Flow in a driven cavity
 
 The folder contains code and report for the Project 1 - Lid Cavity Problem.
 
-# Solver #
+# Solver 
 
 Contains code for Taylor Hood with:
 - locally refined meshes generated with gmesh
@@ -16,14 +17,14 @@ Contains code for Mortar Method implementation:
 
 Output includes velocity and pressure for different refinements.
 
-# Convergence #
+# Convergence 
 
 Contains code for convergence study for P1-PMINI, P1-P2 and P2-P0
 
-# Burggraff Reference Comparison # 
+# Burggraff Reference Comparison  
 
 Contains code for comparison between the results of a locally refined mesh evaluated at the mesh vertical centerline and considering only horizontal velocity (data extracted using ParaView plot over line filter and SpreadSheet View) and the manually extracted reference points cited in the references of the project.
 
-# Plots #
+# Plots 
 
 Contains selected plots included in the report
